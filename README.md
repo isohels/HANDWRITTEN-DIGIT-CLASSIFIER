@@ -1,2 +1,2 @@
 # HANDWRITTEN-DIGIT-CLASSIFIER
-![GitHub Logo](/images/logo.png)
+![Predicted_Values](C:\Users\yrsin\Desktop\git_Hub\HANDWRITTEN-DIGIT-CLASSIFIER)
