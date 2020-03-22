@@ -4,10 +4,10 @@
 <p>System Specifications
   <ul>
     <li>
-Processor: Intel(R) Core i7-9750H
-RAM: 16.0 GB
-System type: 64-bit
-GPU: Nvidia 1660 Ti
+Processor: Intel(R) Core i7-9750H</li>
+ <li>RAM: 16.0 GB</li>
+ <li>System type: 64-bit</li>
+ <li>GPU: Nvidia 1660 Ti
 </li></ul>
 Setting up the System
 Download Anaconda with Python 3.6+
@@ -24,19 +24,19 @@ Open the jupyter notebook, create a folder wherever you like and create an ipynb
 Assuming ‘cv’ is the name you choose for your environment.
 <ul>
   <li>
-Pip install --upgrade pip
-Pip install tensorflow-gpu
-Pip install keras
-Conda install scikit-learn
-Pip install Pillow
-Conda install -c conda-forge opencv
-Python -m pip install -U matplotlib
-Pip install pandas
-Pip install tqdm
-Pip install pydot
-Pip install scikit-image
-Pip install graphviz
-Pip install keras-vis
+Pip install --upgrade pip</li>
+<li>Pip install tensorflow-gpu</li>
+<li>Pip install keras</li>
+<li>Conda install scikit-learn</li>
+<li>Pip install Pillow</li>
+<li>Conda install -c conda-forge opencv</li>
+<li>Python -m pip install -U matplotlib</li>
+<li>Pip install pandas</li>
+<li>Pip install tqdm</li>
+<li>Pip install pydot</li>
+<li>Pip install scikit-image</li>
+<li>Pip install graphviz</li>
+<li>Pip install keras-vis
   </li></ul>
 </p>
 <h3>Classified Output </h3>
